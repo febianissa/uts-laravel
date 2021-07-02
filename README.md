@@ -1,1 +1,1 @@
-Link Heroku : https://mualif-pegawai.herokuapp.com/pegawai
+Link Heroku : https://uts-data-pegawai.herokuapp.com/
